@@ -4,7 +4,7 @@ The native Android app for [Roadworthy](https://stayroadworthy.co.uk) — UK MOT
 
 This repository is the **public distribution point** for the signed Android app. It contains no source code: every release here is built and signed automatically from the private source repository.
 
-![1795546761103](image/README/1795546761103.png)
+![1795546761103](image/README/app.png)
 
 ## Install
 
